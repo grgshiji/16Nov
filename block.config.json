@@ -1,0 +1,36 @@
+{
+  "name": "16Nov",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_16Nov"
+  },
+  "dependencies": {
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "rQyVGjLWAgYVpQCB4_BQn",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
