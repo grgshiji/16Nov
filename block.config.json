@@ -2,8 +2,8 @@
   "name": "16Nov",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/16Nov.git",
+    "ssh": "git@github.com:grgshiji/16Nov.git",
     "branch": "block_16Nov"
   },
   "dependencies": {
